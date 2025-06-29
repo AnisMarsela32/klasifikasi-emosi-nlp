@@ -1,9 +1,11 @@
+# Dataset utama (Kaggle - emotions dataset)
 https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?select=test.txt
 
-file isi data :
+# File isi data (Google Drive - format: test/train/val txt)
 https://drive.google.com/drive/folders/15YEXYGR34aVzpKjf60Y2TZ94ey-76pru?usp=sharing
 
+# Aplikasi demo online (Hugging Face Space)
 https://huggingface.co/spaces/anismarsela32/klasifikasi-emosi-NLP
 
-file isi model:
+# File isi model hasil training (Google Drive - model + tokenizer + encoder)
 https://drive.google.com/drive/folders/1M1XnNDA5YLL-PBx8HYclJrtya6kl9IaN?usp=sharing
