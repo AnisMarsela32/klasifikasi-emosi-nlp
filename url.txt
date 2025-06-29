@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?select=test.txt
+
+file isi data :
+https://drive.google.com/drive/folders/15YEXYGR34aVzpKjf60Y2TZ94ey-76pru?usp=sharing
+
+https://huggingface.co/spaces/anismarsela32/klasifikasi-emosi-NLP
+
+file isi model:
+https://drive.google.com/drive/folders/1M1XnNDA5YLL-PBx8HYclJrtya6kl9IaN?usp=sharing
