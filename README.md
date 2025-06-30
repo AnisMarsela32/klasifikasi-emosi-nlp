@@ -38,11 +38,12 @@ Model bisa dicoba langsung melalui Hugging Face Spaces:
 
 1. Clone repository ini
 2. Install dependensi:
+   
    ```bash
    pip install -r requirements.txt
-```
+   ```
 
-3. Jalankan aplikasi:
+4. Jalankan aplikasi:
 
    ```bash
    streamlit run streamlit_app.py
