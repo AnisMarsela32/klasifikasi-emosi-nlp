@@ -40,7 +40,7 @@ Model bisa dicoba langsung melalui Hugging Face Spaces:
 2. Install dependensi:
    ```bash
    pip install -r requirements.txt
-````
+```
 
 3. Jalankan aplikasi:
 
@@ -58,6 +58,6 @@ Model bisa dicoba langsung melalui Hugging Face Spaces:
 * scikit-learn
 * Streamlit
 
-```
+
 
 
