@@ -1,4 +1,3 @@
-```markdown
 # Klasifikasi Emosi dari Kalimat dengan LSTM
 
 Proyek ini bertujuan membangun model deep learning untuk mengenali emosi dalam kalimat bahasa Inggris menggunakan arsitektur LSTM. Model dapat mengklasifikasikan enam emosi utama: **joy**, **sadness**, **anger**, **fear**, **love**, dan **surprise**.
@@ -46,12 +45,12 @@ Model bisa dicoba langsung melalui Hugging Face Spaces:
 3. Jalankan aplikasi:
 
    ```bash
-   streamlit run main.py
+   streamlit run streamlit_app.py
    ```
 
 > Pastikan resource NLTK sudah terunduh: `punkt`, `stopwords`, `wordnet`, `omw-1.4`.
 
-## 📌 Teknologi
+## Teknologi
 
 * Python
 * TensorFlow / Keras
